@@ -5,6 +5,7 @@ class Main {
     public static void main(String[] args) {
 
 // Variable to represent the size of our tic tac toe board
+        //
         int n = 3;
 
 // nxn array that represents our tic tac toe board
